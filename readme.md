@@ -22,3 +22,23 @@ Bu repoyu bilgisayarınıza klonlamak için:
 ```bash
 git clone [https://github.com/Cengineer00/noktali-virgul-ai-lectures.git](https://github.com/Cengineer00/noktali-virgul-ai-lectures.git)
 cd noktali-virgul-ai-lectures
+```
+
+Her projenin kendi klasörü içerisinde, o projeye özel README.md dosyası bulunmaktadır
+
+## Geliştirici Ekip & İletişim
+
+Sorularınız, önerileriniz veya pull request'leriniz için bize ulaşabilirsiniz.
+
+* Mail: nvirgul.podcast@gmail.com
+
+**Kürşat Kaya**
+- **LinkedIn:** [https://www.linkedin.com/in/kursatkaya/](https://www.linkedin.com/in/kursatkaya/)
+- **GitHub:** [@kursatfelsen](https://github.com/kursatfelsen)
+
+**Mustafa Orhun Köse**
+- **LinkedIn:** [https://www.linkedin.com/in/cengineer13/](https://www.linkedin.com/in/cengineer13/)
+- **GitHub:** [@Cengineer00](https://github.com/Cengineer00)
+
+---
+*Eğer bu repo işinize yaradıysa, sağ üst köşeden bir ⭐ (Star) bırakmayı unutmayın!*
