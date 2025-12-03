@@ -15,17 +15,6 @@ Videolu anlatımlar ve teorik açıklamalar için kanalı ziyaret etmeyi unutmay
 | **01** | [Sıfırdan Yapay Sinir Ağı (Neural Network)](./01_neural_network_from_scratch) | Python, NumPy | [İzle](https://www.youtube.com/watch?v=witsTpml9YM&t=155s) |
 | **02** | *Çok Yakında...* | ... | ... |
 
-## Kurulum ve Kullanım
-
-Bu repoyu bilgisayarınıza klonlamak için:
-
-```bash
-git clone [https://github.com/Cengineer00/noktali-virgul-ai-lectures.git](https://github.com/Cengineer00/noktali-virgul-ai-lectures.git)
-cd noktali-virgul-ai-lectures
-```
-
-Her projenin kendi klasörü içerisinde, o projeye özel README.md dosyası bulunmaktadır
-
 ## Geliştirici Ekip & İletişim
 
 Sorularınız, önerileriniz veya pull request'leriniz için bize ulaşabilirsiniz.
