@@ -2,7 +2,7 @@
 
 Bu repository, **Noktalı Virgül** YouTube kanalında yayınlanan Yapay Zeka, Makine Öğrenmesi ve Derin Öğrenme eğitim serisinde geliştirilen projelerin kaynak kodlarını içerir.
 
-Amacımız; hazır kütüphanelerin (PyTorch, TensorFlow vb.) arkasına sığınmadan, işin **matematiğini ve temel mantığını** kavrayarak, sıfırdan (from scratch) modeller geliştirmektir.
+Amacımız, işin **matematiğini ve temel mantığını** kavrayarak, sıfırdan (from scratch) modeller geliştirmektir.
 
 ## YouTube Kanalı
 Videolu anlatımlar ve teorik açıklamalar için kanalı ziyaret etmeyi unutmayın:
@@ -12,8 +12,9 @@ Videolu anlatımlar ve teorik açıklamalar için kanalı ziyaret etmeyi unutmay
 
 | Bölüm | Konu | Kullanılan Teknolojiler | Video Linki |
 | :--- | :--- | :--- | :--- |
-| **01** | [Sıfırdan Yapay Sinir Ağı (Neural Network)](./01_neural_network_from_scratch) | Python, NumPy | [İzle](https://www.youtube.com/watch?v=witsTpml9YM&t=155s) |
-| **02** | *Çok Yakında...* | ... | ... |
+| **01** | [Sıfırdan GPT (Generative Pre-trained Transformer)](./gpt_from_scratch) | PyTorch | [İzle](https://youtu.be/PKKKr-YMWho?si=Z2q3QoKNAdgKkV0f) |
+| **02** | [Sıfırdan Yapay Sinir Ağı (Neural Network)](./neural_network_from_scratch) | Python, NumPy | [İzle](https://youtu.be/witsTpml9YM?si=ZXiH-ehFT5fVM1uH) |
+| **03** | *Çok Yakında...* | ... | ... |
 
 ## Geliştirici Ekip & İletişim
 
