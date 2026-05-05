@@ -15,7 +15,7 @@ Videolu anlatımlar ve teorik açıklamalar için kanalı ziyaret etmeyi unutmay
 | **01** | [Sıfırdan GPT (Generative Pre-trained Transformer)](./gpt_from_scratch) | PyTorch | [İzle](https://youtu.be/PKKKr-YMWho?si=Z2q3QoKNAdgKkV0f) |
 | **02** | [Sıfırdan Yapay Sinir Ağı (Neural Network)](./neural_network_from_scratch) | Python, NumPy | [İzle](https://youtu.be/witsTpml9YM?si=ZXiH-ehFT5fVM1uH) |
 | **03** | [Sıfırdan Karar Ağacı (Decision Tree)](./decision_tree_from_scratch) | Python, NumPy | [İzle](https://youtu.be/DBocrp_nDWM) |
-| **04** | *Çok Yakında...* | ... | ... |
+| **04** | [Sıfırdan Multi-Armed Bandit (Çok Kollu Canavar)](./reinforcement_learning_from_scratch/multi-armed_bandit_problem) | Python, NumPy, Matplotlib | [Çok Yakında...]() |
 
 ## Geliştirici Ekip & İletişim
 
